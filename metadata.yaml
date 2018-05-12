@@ -1,0 +1,30 @@
+_repo: The-Pianoforte-SonataIts-Origin-and-Development_17074
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Shedlock, J. S. (John South)
+    alias: Shedlock, John South
+    birthdate: 1843
+    deathdate: 1919
+    gutenberg_agent_id: '7121'
+    url: http://www.gutenberg.org/2009/agents/7121
+description: ''
+gutenberg_bookshelf: Music
+gutenberg_issued: '2005-11-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17074'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Sonatas (Piano) -- History and criticism'
+- !lcc 'ML'
+title: 'The Pianoforte Sonata
+
+  Its Origin and Development'
+url: http://www.gutenberg.org/ebooks/17074
